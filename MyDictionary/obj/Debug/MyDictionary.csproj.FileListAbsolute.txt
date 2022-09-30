@@ -1,0 +1,8 @@
+C:\Users\DarkB\source\repos\Kamp\MyDictionary\bin\Debug\MyDictionary.exe.config
+C:\Users\DarkB\source\repos\Kamp\MyDictionary\bin\Debug\MyDictionary.exe
+C:\Users\DarkB\source\repos\Kamp\MyDictionary\bin\Debug\MyDictionary.pdb
+C:\Users\DarkB\source\repos\Kamp\MyDictionary\obj\Debug\MyDictionary.csproj.AssemblyReference.cache
+C:\Users\DarkB\source\repos\Kamp\MyDictionary\obj\Debug\MyDictionary.csproj.SuggestedBindingRedirects.cache
+C:\Users\DarkB\source\repos\Kamp\MyDictionary\obj\Debug\MyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\DarkB\source\repos\Kamp\MyDictionary\obj\Debug\MyDictionary.exe
+C:\Users\DarkB\source\repos\Kamp\MyDictionary\obj\Debug\MyDictionary.pdb
